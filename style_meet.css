@@ -1,0 +1,30 @@
+
+#img1{
+    display: block;
+    margin-right: 14%;
+    margin-top: 9%;
+
+}
+
+.text1{
+    font-size: 45px;
+    line-height: 15%;
+    margin-left: 5%;
+    margin-top: 11%;
+}
+
+.text2{
+    font-size: 20px;
+    margin-left: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 4px;
+    color: grey;
+    margin-top: 4%;
+}
+
+.button{
+    position: absolute;
+    background-color: white;
+    color: blue;
+
+}
